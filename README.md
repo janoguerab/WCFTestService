@@ -1,4 +1,5 @@
 # How to: Use Certificate Authentication and Message Security in WCF Calling from Windows Forms
+https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff648360(v=pandp.10)
 
 ## Applies to
 Microsoft Windows Communication Foundation (WCF) 3.5
